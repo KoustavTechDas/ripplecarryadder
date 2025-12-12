@@ -41,7 +41,7 @@ ripplecarryadder/
 ## 3. Included Images
 
 ### Block Diagram  
-![Theory](theory/fulladder_4bit_tb.sv)
+![Theory](theory/4_bit_full_adder.png)
 
 ### Schematic  
 ![Schematic](sim/result/images/4bitripple_schematic.png)
