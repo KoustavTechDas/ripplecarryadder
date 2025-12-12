@@ -1,4 +1,4 @@
-# Ripple Ccarry Adder – System Verilog Implementation
+# Ripple Carry Adder – System Verilog Implementation
 
 ## 1. Overview
 
