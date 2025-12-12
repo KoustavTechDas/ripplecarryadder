@@ -40,7 +40,7 @@ ripplecarryadder/
 
 ## 3. Included Images
 
-### Block Diagram  
+### Circuit Simulation  
 ![Theory](theory/4_bit_full_adder.png)
 
 ### Schematic  
