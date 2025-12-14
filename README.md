@@ -87,7 +87,6 @@ Includes schematic:
 
 ---
 
-
 ## 5. Purpose
 
 This project demonstrates:
