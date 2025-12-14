@@ -106,7 +106,7 @@ This project demonstrates:
 
 ## 6. Author
 
-**Koustav Das**  
+**Koustav Das**
 Electronics • Verilog • Digital Logic • Embedded Systems
 
 ---
