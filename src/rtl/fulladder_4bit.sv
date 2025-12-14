@@ -8,6 +8,7 @@ module halfadder(
 endmodule
 
 
+
 //1 bit Full Adder
 module fulladder_1bit(
   input f_a,f_b,f_cin,
@@ -18,6 +19,7 @@ module fulladder_1bit(
   halfadder HA1 (.h_a(s0), .h_b(f_cin), .h_s(f_s), .h_c(c1));
   assign f_c = c0 | c1;
 endmodule
+
 
 
 //4 bit Full Adder
