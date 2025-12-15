@@ -4,7 +4,7 @@
 
 This project contains a complete System Verilog implementation of a **Ripple Carry adder**, including RTL design, testbench, simulation output, and diagrams.
 
-A Ripple Carry Adder performs 4 bit two number addition:
+A Ripple Carry Adder performs addition of two 4 bit numbers:
 
 This project is useful for students learning digital logic and HDL design.
 
@@ -40,19 +40,20 @@ ripplecarryadder/
 
 ## 3. Included Images
 
-### Circuit Simulation  
+### Circuit Simulation: 
 ![Theory](theory/4_bit_full_adder.png)
 
-### Schematic  
+### Schematic: 
 ![Schematic](sim/result/images/4bitripple_schematic.png)
-### Block level Schematic
+
+### Block level Schematic:
 ![Schematic](sim/result/images/4bitripple_schematic_block.png)
 
-### Gate level Schematic
+### Gate level Schematic:
 ![Gate level Schematic](sim/result/images/4bitripple_FA0.png)
 ![Gate level Schematic](sim/result/images/4bitripple_HA0.png)
 
-### Simulation Waveform  
+### Simulation Waveform: 
 ![Simulation Waveform](sim/result/images/4bitripple_waveform.png)
 
 ---
