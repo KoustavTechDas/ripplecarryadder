@@ -81,11 +81,6 @@ Contains: images of the simulation
 - `fulladder_4bit_tb.sv` → Schematic
 ---
 
-### 4.4 Theory Documents  
-**Folder:** `theory/`  
-Includes schematic:
-
----
 
 ## 5. Purpose
 
@@ -110,4 +105,4 @@ Electronics • Verilog • Digital Logic • Embedded Systems
 
 ---
 
-## ⭐ If you find this helpful, please star the repository!
+## If you find this helpful, please star the repository!
