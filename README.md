@@ -64,7 +64,6 @@ ripplecarryadder/
 **File:** `scr/rtl/fulladder_4bit.sv`  
 Contains the System Verilog module implementing:
 
-
 ---
 
 ### 4.2 Testbench  
