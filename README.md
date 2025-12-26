@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This project contains a complete System Verilog implementation of a **Ripple Carry adder**, including RTL design, testbench, simulation output, and diagrams.
+This project contains a complete System Verilog implementation of a **Ripple Carry adder**, including RTL design, testbench, simulation output and diagrams.
 
 A Ripple Carry Adder performs addition of two 4 bit numbers:
 
