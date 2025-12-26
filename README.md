@@ -74,7 +74,7 @@ Uses 200 random input combinations to verify the ripple carry adder and generate
 
 ### 4.3 Simulation Files  
 **Folder:** `sim/result`  
-Contains: images of the simulation
+Contains: Images of the simulation
 
 - `4bitripple_waveform.png` → Simulation waveform
 - `4bitripple_schematic_block.png` → Gate level Schematic
