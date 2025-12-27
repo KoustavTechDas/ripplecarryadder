@@ -20,11 +20,6 @@ module fulladder_4bit_tb;
         .Cout(Cout)
     );
 
-    // Generate waveform
-    initial begin
-        $dumpfile("wave.vcd");
-        $dumpvars(0, fulladder_4bit_tb);
-    end
 
     // Clean stimulus loop
     initial begin
