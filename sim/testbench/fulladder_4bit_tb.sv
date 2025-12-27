@@ -20,7 +20,6 @@ module fulladder_4bit_tb;
         .Cout(Cout)
     );
 
-
     // Clean stimulus loop
     initial begin
         repeat (200) begin
